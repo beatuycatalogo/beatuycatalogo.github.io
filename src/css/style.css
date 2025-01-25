@@ -183,7 +183,6 @@ footer{
     body, html {
         font-size: 14px;
         max-width: 1440px;
-        max-height: 860px;
     }
 
     .background {
@@ -267,7 +266,6 @@ footer{
     body, html {
         font-size: 12px;
         max-width: 1024px;
-        max-height: 860px;
     }
 
     .background {
@@ -351,7 +349,6 @@ footer{
     body, html {
         font-size: 10px;
         max-width: 768px;
-        max-height: 860px;
     }
 
     .background {
@@ -434,8 +431,7 @@ footer{
 @media (max-width: 480px) {
     body, html {
         font-size: 10px;
-        max-width: 768px;
-        max-height: 860px;
+        max-width: 480px;
     }
 
     .background {
