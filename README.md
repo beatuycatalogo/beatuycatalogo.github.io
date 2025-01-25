@@ -1,2 +1,2 @@
-# makeup.github.io
+# beatuycatalogo.github.io
 Landing page portifolio
