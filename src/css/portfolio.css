@@ -245,11 +245,11 @@ footer a:hover {
     }
 
     header h1 {
-        font-size: 2rem;
+        font-size: 30px;
     }
 
     header h3 {
-        font-size: 1.2rem;
+        font-size: 26px;
     }
 
     main {
@@ -258,7 +258,7 @@ footer a:hover {
     }
 
     .sobre-prin {
-        max-width: 900px;
+        max-width: 90%;
         align-items: center;
         display: flex;
         gap: 25px;
@@ -282,23 +282,23 @@ footer a:hover {
 
     .descricao p {
         flex: 2;
-        font-size: 18px;
+        font-size: 22px;
         text-align: justify;
         padding: 10px;
     }
 
     h2 {
-        font-size: 32px;
+        font-size: 36px;
     }
 
     .servicos {
-        max-width: 900px;
+        max-width: 90%;
         gap: 20px;
         padding: 15px;
     }
 
     .servico-item {
-        max-width: 300px;
+        max-width: 100%;
         padding-left: 25px;
         padding-right: 25px;
     }
@@ -306,25 +306,25 @@ footer a:hover {
     .servico-item p {
         padding-top: 0px;
         padding-bottom: 15px;
-        font-size: 18px; 
+        font-size: 20px; 
     }
 
     .atendimento {
-        max-width: 900px;
+        max-width: 90%;
         gap: 20px;
         padding: 15px;
     }
 
     .atendimentodesc {
-        font-size: 18px;
+        font-size: 22px;
     }
 
     .chamativa {
-        font-size: 24px;
+        font-size: 26px;
     }
 
     .contact-button {
-        font-size: 18px;
+        font-size: 22px;
         padding: 8px 15px;
     }
 
@@ -349,11 +349,11 @@ footer a:hover {
     }
 
     header h1 {
-        font-size: 2rem;
+        font-size: 28px;
     }
 
     header h3 {
-        font-size: 1.2rem;
+        font-size: 24px;
     }
 
     main {
@@ -362,7 +362,7 @@ footer a:hover {
     }
 
     .sobre-prin {
-        max-width: 900px;
+        max-width: 90%;
         align-items: center;
         display: flex;
         gap: 25px;
@@ -386,23 +386,23 @@ footer a:hover {
 
     .descricao p {
         flex: 2;
-        font-size: 18px;
+        font-size: 20px;
         text-align: justify;
         padding: 10px;
     }
 
     h2 {
-        font-size: 32px;
+        font-size: 34px;
     }
 
     .servicos {
-        max-width: 900px;
+        max-width: 90%;
         gap: 20px;
         padding: 15px;
     }
 
     .servico-item {
-        max-width: 300px;
+        max-width: 100%;
         padding-left: 25px;
         padding-right: 25px;
     }
@@ -414,13 +414,13 @@ footer a:hover {
     }
 
     .atendimento {
-        max-width: 900px;
+        max-width: 90%;
         gap: 20px;
         padding: 15px;
     }
 
     .atendimentodesc {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .chamativa {
@@ -428,7 +428,7 @@ footer a:hover {
     }
 
     .contact-button {
-        font-size: 18px;
+        font-size: 20px;
         padding: 8px 15px;
     }
 
@@ -453,11 +453,11 @@ footer a:hover {
     }
 
     header h1 {
-        font-size: 1.8rem;
+        font-size: 26px;
     }
 
     header h3 {
-        font-size: 1rem;
+        font-size: 22px;
     }
 
     main {
@@ -467,7 +467,7 @@ footer a:hover {
     }
 
     .sobre-prin {
-        max-width: 580px;
+        max-width: 90%;
         align-items: center;
         flex-direction: column;
         gap: 20px;
@@ -501,13 +501,13 @@ footer a:hover {
     }
 
     .servicos {
-        max-width: 768px;
+        max-width: 90%;
         gap: 20px;
         padding: 15px;
     }
 
     .servico-item {
-        max-width: 300px;
+        max-width: 100%;
         padding-left: 25px;
         padding-right: 25px;
     }
@@ -519,7 +519,7 @@ footer a:hover {
     }
 
     .atendimento {
-        max-width: 768px;
+        max-width: 90%;
         gap: 20px;
         padding: 15px;
     }
@@ -529,7 +529,7 @@ footer a:hover {
     }
 
     .chamativa {
-        font-size: 24px;
+        font-size: 22px;
     }
 
     .contact-button {
@@ -578,7 +578,7 @@ footer a:hover {
     }
 
     .sobre-prin {
-        max-width: 340px;
+        max-width: 90%;
         align-items: center;
         flex-direction: column;
         gap: 20px;
@@ -602,23 +602,23 @@ footer a:hover {
 
     .descricao p {
         flex: 2;
-        font-size: 14px;
+        font-size: 16px;
         text-align: justify;
         padding: 10px;
     }
 
     h2 {
-        font-size: 24px;
+        font-size: 32px;
     }
 
     .servicos {
-        max-width: 300px;
+        max-width: 90%;
         gap: 20px;
         padding: 15px;
     }
 
     .servico-item {
-        max-width: 200px;
+        max-width: 100%;
         padding-left: 25px;
         padding-right: 25px;
     }
@@ -626,7 +626,7 @@ footer a:hover {
     .servico-item p {
         padding-top: 0px;
         padding-bottom: 15px;
-        font-size: 12px; 
+        font-size: 16px; 
     }
 
     .atendimento {
@@ -635,16 +635,16 @@ footer a:hover {
         padding: 15px;
     }
 
-    .atendimentodes {
-        font-size: 12px;
+    .atendimentodesc {
+        font-size: 16px;
     }
 
     .chamativa {
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .contact-button {
-        font-size: 14px;
+        font-size: 18px;
         padding: 8px 15px;
     }
 
