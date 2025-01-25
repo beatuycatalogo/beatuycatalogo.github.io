@@ -553,23 +553,22 @@ footer a:hover {
 
 @media (max-width: 480px) {
     body, html{
-        font-size: 12px;
+        font-size: 8px;
         max-width: 480px;
-        max-height: auto;
     }
 
     header {
         max-width: 100%;
         align-items: center;
-        padding: 10px 0;
+        padding: 5px 0;
     }
 
     header h1 {
-        font-size: 1.8rem;
+        font-size: 24px;
     }
 
     header h3 {
-        font-size: 1rem;
+        font-size: 20px;
     }
 
     main {
@@ -579,7 +578,7 @@ footer a:hover {
     }
 
     .sobre-prin {
-        max-width: 440px;
+        max-width: 340px;
         align-items: center;
         flex-direction: column;
         gap: 20px;
@@ -590,36 +589,36 @@ footer a:hover {
 
     .photo {
         flex: 1;
-        max-width: 350px;
-        max-height: 350px;
+        max-width: 250px;
+        max-height: 250px;
         border-radius: 15%;
     }
 
     .photo img {
-        width: 350px;
-        height: 350px;
+        width: 250px;
+        height: 250px;
         object-fit: cover;
     }
 
     .descricao p {
         flex: 2;
-        font-size: 18px;
+        font-size: 14px;
         text-align: justify;
         padding: 10px;
     }
 
     h2 {
-        font-size: 32px;
+        font-size: 24px;
     }
 
     .servicos {
-        max-width: 400px;
+        max-width: 300px;
         gap: 20px;
         padding: 15px;
     }
 
     .servico-item {
-        max-width: 300px;
+        max-width: 200px;
         padding-left: 25px;
         padding-right: 25px;
     }
@@ -627,37 +626,37 @@ footer a:hover {
     .servico-item p {
         padding-top: 0px;
         padding-bottom: 15px;
-        font-size: 18px; 
+        font-size: 12px; 
     }
 
     .atendimento {
-        max-width: 400px;
+        max-width: 90%;
         gap: 20px;
         padding: 15px;
     }
 
     .atendimentodes {
-        font-size: 18px;
+        font-size: 12px;
     }
 
     .chamativa {
-        font-size: 24px;
+        font-size: 18px;
     }
 
     .contact-button {
-        font-size: 18px;
+        font-size: 14px;
         padding: 8px 15px;
     }
 
     .studio {
-        max-width: 350px;
+        max-width: 250px;
         max-height: 450px;
         border-radius: 10%;
         object-fit: cover;
     }
 
     .studio img {
-        max-width: 350px;
+        max-width: 250px;
         max-height: 450px;
         object-fit: cover;
     }
