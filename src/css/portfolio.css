@@ -553,3 +553,115 @@ footer a:hover {
         object-fit: cover;
     }
 }
+
+@media (max-width: 480px) {
+    body, html{
+        font-size: 12px;
+        max-width: 768px;
+        max-height: auto;
+    }
+
+    header {
+        max-width: 100%;
+        align-items: center;
+        padding: 10px 0;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    header h3 {
+        font-size: 1rem;
+    }
+
+    main {
+        max-width: 580px;
+        align-items: center;
+        padding: 10px;
+    }
+
+    .sobre-prin {
+        max-width: 580px;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+        padding: 15px;
+        border-radius: 25px;
+        padding: 15px;
+    }
+
+    .photo {
+        flex: 1;
+        max-width: 350px;
+        max-height: 350px;
+        border-radius: 15%;
+    }
+
+    .photo img {
+        width: 350px;
+        height: 350px;
+        object-fit: cover;
+    }
+
+    .descricao p {
+        flex: 2;
+        font-size: 18px;
+        text-align: justify;
+        padding: 10px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    .servicos {
+        max-width: 900px;
+        gap: 20px;
+        padding: 15px;
+    }
+
+    .servico-item {
+        max-width: 300px;
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+
+    .servico-item p {
+        padding-top: 0px;
+        padding-bottom: 15px;
+        font-size: 18px; 
+    }
+
+    .atendimento {
+        max-width: 900px;
+        gap: 20px;
+        padding: 15px;
+    }
+
+    .atendimentodesc {
+        font-size: 18px;
+    }
+
+    .chamativa {
+        font-size: 24px;
+    }
+
+    .contact-button {
+        font-size: 18px;
+        padding: 8px 15px;
+    }
+
+    .studio {
+        max-width: 350px;
+        max-height: 450px;
+        border-radius: 10%;
+        object-fit: cover;
+    }
+
+    .studio img {
+        max-width: 350px;
+        max-height: 450px;
+        object-fit: cover;
+    }
+}

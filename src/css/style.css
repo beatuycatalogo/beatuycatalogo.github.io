@@ -430,3 +430,87 @@ footer{
         font-size: 12px;
     }
 }
+
+@media (max-width: 480px) {
+    body, html {
+        font-size: 10px;
+        max-width: 768px;
+        max-height: 860px;
+    }
+
+    .background {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        place-items: center;
+    }
+
+    .background::before {
+        background-size: cover;
+        filter: blur(4px);
+    }
+
+    .container {
+        margin: 0;
+        width: 100%;
+        border-radius: 20px;
+        z-index:auto ;
+    }
+
+    .top-header {
+        margin-bottom: 14px;
+    }
+
+    .profile {
+        width: 85px;
+        height: 85px;
+    }
+
+    .name {
+        font-size: 18px;
+        margin-top: 8px;
+        margin-bottom: 4px;
+    }
+
+    .sub-title {
+        font-size: 12px;
+        margin: 8px 0;
+    }
+
+    .simplefloat {
+        gap: 15px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
+
+    .simplefloat ul {
+        gap: 15px;
+    }
+
+    .link {
+        padding: 8px 15px;
+        font-size: 12px;
+    }
+
+    .link img {
+        max-width: 16px;
+    }
+
+    .link:hover {
+        transform: scale(0.83);
+    }
+
+    .lista:hover {
+        border-radius: 8px;
+    }
+
+    .list-click p {
+        font-size: 14px;
+    }
+
+    footer{
+        height: 30px;
+        margin-top: 0px;
+        font-size: 12px;
+    }
+}
